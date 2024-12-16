@@ -1,5 +1,5 @@
 
-package com.restaurant.Repository;
+package com.restaurant.repository;
 
 import com.restaurant.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;

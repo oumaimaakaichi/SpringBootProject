@@ -1,14 +1,14 @@
 
 
 
-package com.restaurant.Services;
+package com.restaurant.services;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.restaurant.Repository.UserRepository;
 import com.restaurant.entities.User;
+import com.restaurant.repository.UserRepository;
 
 import java.util.List;
 

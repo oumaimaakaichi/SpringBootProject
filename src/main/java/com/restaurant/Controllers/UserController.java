@@ -1,10 +1,10 @@
-package com.restaurant.Controllers;
+package com.restaurant.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import com.restaurant.entities.User;
-import com.restaurant.Services.UserService;
+import com.restaurant.services.UserService;
 
 import java.util.List;
 
